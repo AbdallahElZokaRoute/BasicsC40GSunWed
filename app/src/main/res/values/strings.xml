@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BasicsC40GSunWed</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="player_1_n_x">Player 1\n(X)</string>
+    <string name="player_2_n_o">Player 2\n(O)</string>
+    <string name="navigate_to_calculator">Navigate to Calculator</string>
+    <string name="navigate_to_xo_game">Navigate to XO Game</string>
+    <string name="navigate_to_login">Navigate to Login</string>
+    <string name="chats">Chats</string>
+    <string name="status">Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_chats_fragment">Hello from Chats Fragment</string>
+    <string name="hello_from_status_fragment">Hello from STATUS fragment</string>
+</resources>

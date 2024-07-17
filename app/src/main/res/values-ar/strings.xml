@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicsC40GSunWed</string>
+    <string name="username">اسم المستخدم:</string>
+    <string name="password">كلمة المرور:</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="player_1_n_x">Player 1\n(X)</string>
+    <string name="player_2_n_o">Player 2\n(O)</string>
+    <string name="navigate_to_calculator">Navigate to Calculator</string>
+    <string name="navigate_to_xo_game">Navigate to XO Game</string>
+    <string name="chats">Chats</string>
+</resources>
