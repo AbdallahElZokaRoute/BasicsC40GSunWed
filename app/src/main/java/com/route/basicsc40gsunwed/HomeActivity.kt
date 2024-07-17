@@ -24,7 +24,7 @@ class HomeActivity : AppCompatActivity() {
         statusTextView.setOnClickListener {
             pushFragment(StatusFragment())
         }
-
+        // Do Some development Stuff
     }
 
     fun pushFragment(fragment: Fragment) {
